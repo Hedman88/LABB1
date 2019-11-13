@@ -1,0 +1,13 @@
+
+1. I learned a lot about the basics of the languages C/C++ as well as Unity. I've had some experience with Visual Studio before but that was in combination
+with Unity. I have also learned how git works.
+As such I had some knowledge of the tool but it was still quite different from my experience with Unity and C#.
+
+2. The most difficult thing in the lab was using scanf_s, how it worked just didn't click with me. I had to google and ask classmates a lot to
+be able to use it for Task 5 and 8.
+
+3. I think the lab could use clearer instructions, at least in Task 8. I don't know if I'm supposed to integrate both modes into eachother
+or write two different functions. Mostly the lab has been pretty good I guess. The difficulty spike from 6 to 7 is quite high, or low rather.
+Task 6 is quite difficult, it took some research and mind power, while Task 7 is incredibly easy. Took about 5 minutes.
+
+Estimated time: 10 chill hours. (This includes a lot of googling and the like).
